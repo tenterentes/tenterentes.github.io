@@ -1,16 +1,7 @@
 h1 {
 	font-family: impact;
-}
-
-h1 {
 	font-weight: bold;
-}
-
-h1 {
 	color: black;
-}
-
-h1 {
 	font-size: 200px;
 }
 
@@ -22,14 +13,16 @@ body {
 	width: 100%;
 }
 
-.first-row {
-	height: 100vh;
-}
 
 p {
 	font-size: 50px;
+	font-family: impact;
 }
 
-p {
-	font-family: impact;
+.row {
+	margin-bottom: 40px;
+}
+
+.stili2 {
+	width: 100%;
 }
